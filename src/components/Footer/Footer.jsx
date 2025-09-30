@@ -81,7 +81,7 @@ const Footer = () => {
           </Link>
           {" | "}
           <Link to="/terms" className=" transition-colors duration-300">
-            Terms of Use
+            Terms &amp; Conditions
           </Link>
           <br />
           Designed and Developed by{" "}
